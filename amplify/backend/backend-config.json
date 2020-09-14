@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "testing3638bac2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

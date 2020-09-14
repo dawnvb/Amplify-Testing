@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <SignOut/>
       <header className="App-header">
-        Amplify Testing
+        Amplify Testing!
       </header>
     </div>
   );
